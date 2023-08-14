@@ -1,0 +1,20 @@
+C:\Users\avery\Desktop\Cowculator\Cowculator\bin\Debug\Cowculator.exe.config
+C:\Users\avery\Desktop\Cowculator\Cowculator\bin\Debug\Cowculator.exe
+C:\Users\avery\Desktop\Cowculator\Cowculator\bin\Debug\Cowculator.pdb
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.csprojAssemblyReference.cache
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.Form1.resources
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.Properties.Resources.resources
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.csproj.GenerateResource.cache
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.csproj.CoreCompileInputs.cache
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.exe
+C:\Users\avery\Desktop\Cowculator\Cowculator\obj\Debug\Cowculator.pdb
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\bin\Debug\Cowculator.exe.config
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\bin\Debug\Cowculator.exe
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\bin\Debug\Cowculator.pdb
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.csprojAssemblyReference.cache
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.Form1.resources
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.Properties.Resources.resources
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.csproj.GenerateResource.cache
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.csproj.CoreCompileInputs.cache
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.exe
+C:\Users\avery\OneDrive\Desktop\Cowculator Folder\Cowculator\obj\Debug\Cowculator.pdb
